@@ -1,2 +1,3 @@
-
-quote_gen/
+tensorflow-venv/
+.vscode/
+checkpoints/
